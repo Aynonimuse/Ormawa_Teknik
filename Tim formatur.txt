@@ -1,0 +1,17 @@
+ketua : Muhammad Arifuddin
+sekretaris : Khumaidah
+
+komisi A (Anggaran) :
+	- esti astutik
+	- efa firmania
+	- Andika bagus surya
+
+komisi B (konstitusi) :
+	- hasan mushonif
+	- Zakiyatut Darojah
+	- Siti Sudarmesih
+
+komisi C (Aspirasi) :  
+	- Muhamad Nurkhafid
+	- Haris Kurnia Sandi
+	- Muhammad Syafi'i
